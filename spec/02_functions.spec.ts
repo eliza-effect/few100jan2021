@@ -201,7 +201,7 @@ describe('functions', () => {
                     { vin: '24323', make: 'Chevy', model: 'Bolt', mileage: 18_234 },
                     { vin: '2342543', make: 'Nissan', model: 'Versa', mileage: 222_234 },
                     { vin: '246798323', make: 'Honda', model: 'Civic', mileage: 2_343 },
-                    { vin: '24334523', make: 'Honda', model: 'CRV', mileage: 54_551 }
+                    { vin: '24334523', make: 'Honda', model: 'CRV', mileage: 54_551 },
                     { vin: '89888', make: 'Chevy', model: 'Bolt', mileage: 18_230 },
                     { vin: '8389h3i38', make: 'Honda', model: 'Pilot', mileage: 52_123 },
                     { vin: '7390399333', make: 'Ram', model: '1500', mileage: 83_238 }
